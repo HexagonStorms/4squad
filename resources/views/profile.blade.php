@@ -16,7 +16,7 @@
 						<h1>TODD RACHOWIN, 25</h1>
 					</div>
 					<div class="col-md-12">
-						<h4>FEMALE</h4>
+						<h4>MALE</h4>
 					</div>
 				</div>
 			</div>
