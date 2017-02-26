@@ -1,3 +1,32 @@
+@media (max-width: 600px) {
+    .event-img {
+        /*width: */
+        /*height: 200px;*/
+    }
+    .event {
+        margin: 0;
+        padding: 0;
+        height: 300px;
+        position: relative;
+    }
+}
+
+@media (min-width: 601px) {
+    .event-img {
+        width: 100%;
+        height: 100%;
+    }
+    .event {
+        margin: 0;
+        padding: 0;
+        height: 750px;
+        position: relative;
+    }
+}
+
+
+
+
 .chats {
     background: grey;
 }
@@ -58,10 +87,6 @@
 .large-font {
     font-size: 2em;
 }
-.event-img {
-    width: 100%;
-    height: 100%;
-}
 .chat-img {
     height: 200px;
 }
@@ -74,13 +99,6 @@
 .events {
     margin: 1em 0 0 0;
     background: black;
-}
-
-.event {
-    margin: 0;
-    padding: 0;
-    height: 750px;
-    position: relative;
 }
 .event-title {
     position: absolute;

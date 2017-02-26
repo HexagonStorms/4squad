@@ -3,7 +3,7 @@
 @section('title', 'Chats')
 
 @section('content')
-    <div class="chats">
+    <div class="chats container-fluid">
     	<div class="row chat" style="background: #cecece;">
     		<div class="col-md-4 chat-img-holder">
     			<img src="img/Composite.png" class="chat-img">
