@@ -12,5 +12,17 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('events');
+});
+
+Route::get('/events', function () {
+    return view('events');
+});
+
+Route::get('/chats', function () {
+    return view('chats');
+});
+
+Route::get('/profile', function () {
+    return view('profile');
 });

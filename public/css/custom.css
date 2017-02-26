@@ -1,0 +1,58 @@
+.calendar-date {
+    position: absolute;
+}
+#footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+}
+.bottom-button {
+    background: black;
+    color: #292929;
+}
+.bottom-buttons {
+    border-top: 1px solid grey;
+    padding: 1em 0 1em 0;
+}
+.large-font {
+    font-size: 2em;
+}
+.event-img {
+    width: 100%;
+}
+.events {
+    margin: 1em 1em 150px 1em;
+}
+.event {
+    margin: 1em;
+}
+.join-button {
+    width:15%;
+    font-weight: bold;
+    font-size: 3em;
+    display: inline;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    height: 10%;
+    color: white;
+    background-color: green;
+
+}
+.info-button {
+    display: inline;
+    height: 10%;
+    font-weight: bold;
+    font-size: 2em;
+    width: 83%;
+    padding: 0;
+    border: 0;
+    margin: 0;
+    color: black;
+    background: white;
+}
+body {
+    color: white;
+    background: black;
+}
