@@ -12,7 +12,7 @@
 */
 
 Route::get('/', function () {
-    return view('events');
+    return redirect('/events');
 });
 
 Route::get('/events', function () {
