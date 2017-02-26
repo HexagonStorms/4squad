@@ -1,9 +1,3 @@
-@media screen and (min-width: 48em){
-    body{
-        text-align: justify;
-    }
-}
-
 .chats {
     background: grey;
 }
